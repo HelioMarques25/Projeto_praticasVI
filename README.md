@@ -1,1 +1,1 @@
-# Projeto_praticasVI
+# Detector_de_gestos
